@@ -35,7 +35,7 @@ Mentor/Mentee assignments will be posted soon.
 
 **If I’m having challenges with the program, such as connecting with my mentor/mentee, selecting an open source project, etc., who can I contact?**
 
-For help with the program, please email Rachel Lahav (rlahav@umass.edu) and Brian Krusell (bkrusell@umass.edu).
+For help with the program, please email Brian Krusell (bkrusell@umass.edu).
 
 ### Open Source References
 
